@@ -33,7 +33,7 @@ Attackers can directly extract environment variables from the server, including 
 Severity is Critical, as it compromises application and connected services.
 
 Evidence
-Screenshot: public/screenshot.png (add your capture here).
+![Screenshot showing secret exposure](public/screenshot.png)
 
 Public PoC repository: OttoyRocky/vuln-nextjs
 
