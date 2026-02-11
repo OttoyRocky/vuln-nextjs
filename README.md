@@ -17,14 +17,20 @@ Create .env.local in the project root with:
 
 bash
 VERCEL_PLATFORM_PROTECTION=test_secret
+
+
 Install dependencies:
 
 bash
 npm install
+
+
 Start the server:
 
 bash
 npm run dev
+
+
 Open http://localhost:3000 and click Run Server Action.
 The environment variable value is displayed in the browser.
 
